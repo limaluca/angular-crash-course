@@ -1,3 +1,12 @@
+# Sobre a aplicação:
+Trata-se de um listador de tarefas. Pode-se criar uma tarefa ao clicar em um botão. 
+A criação de uma tarefa possibilida o usuário a: 
+    1. Clicar duas vezes em uma tarefa para adicionar um lembrete;
+    2. Excluir uma tarefa;
+
+Foi utilizado o router do angular para exibir a pagina "Sobre".
+
+
 # AngularCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
